@@ -1,0 +1,28 @@
+{
+  "name": "geopicture",
+  "description": "",
+  "main": "geopicture.js",
+  "authors": [
+    "khnam <lovedeer118@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "install": {
+    "path": {
+      "css": "public/dist/css",
+      "js": "public/dist/js"
+    }
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
+
+//https://blog.weirdx.io/post/9016
